@@ -401,8 +401,7 @@ When you receive an e-mail, save the sender as a favorite, then you can for exam
 
 
 I built my components into a regular cardboard-box that my router came in. It's able to be put up on the wall or any part of the room, so you can skip using USB and just use a battery if you want to put it up somewhere high or so. Here's it at work when I just enter my apartment:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/naru3gC-lA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/naru3gC-lA8
 Pretty good! When the alarm went off it also sent a notification to my phone through the e-mail app, so I can know whenever someone moves inside.
 
 Now we got a fully functional smart alarm, with built-in smoke detection and temperature sensors and a good movement detection. What I'd like to add in the future is a camera, so I can take receive pictures of whatever is moving, to really enhance the security aspect; and to verify if it's actually an intruder or burning in my apartment and not a false alarm.
